@@ -1,5 +1,6 @@
 import './App.css'
 import Nav from './Component/Nav'
+import Home from './Component/Home'
 
 function App() {
 
@@ -7,6 +8,7 @@ function App() {
   return (
     <>
         <Nav/>   
+        <Home/>
     </>
   )
 }
